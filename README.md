@@ -30,3 +30,5 @@ The project aims to **provide a secure platform for interns to log in, manage ta
 │-- style.css # Stylesheet for design & responsiveness
 │-- script.js # Client-side logic & Firebase interactions
 │-- firebase-config.js # Firebase SDK configuration
+🖼️ Screenshot
+<img width="1923" height="908" alt="screencapture-127-0-0-1-3000-index-html-2025-08-05-15_25_34" src="https://github.com/user-attachments/assets/e8eb6bab-f5d3-4408-acc0-e728e3dcb4ee" />
